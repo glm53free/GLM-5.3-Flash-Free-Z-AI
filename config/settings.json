@@ -1,0 +1,6 @@
+{
+  "_rev": "rev-a7b31e-20260827",
+  "model": "glm-5.3-flash",
+  "backend": "z.ai",
+  "ollama": "glm-5.3-flash"
+}

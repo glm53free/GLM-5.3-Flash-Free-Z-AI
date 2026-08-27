@@ -1,0 +1,7 @@
+{
+  "_rev": "rev-a7b31e-20260827",
+  "model": "glm-5.3-flash",
+  "swe_bench": 64.1,
+  "mmlu": 84.2,
+  "vs": "glm 5.3 vs 5.3 flash — flash is the fast tier"
+}

@@ -1,0 +1,3 @@
+# rev-a7b31e-20260827
+GLM 5.3 Flash Free Z.AI
+free glm 5.3 flash, z.ai, huggingface, gguf, ollama glm 5.3, openrouter
